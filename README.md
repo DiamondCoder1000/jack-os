@@ -14,4 +14,4 @@ https://github.com/idelvall/hack-os/issues
 Contributions are always welcome and greatly appreciated!
 
 ## License
-Apache License, Version 2.0
+Apache License, Version 2.0.  
